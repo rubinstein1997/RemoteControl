@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9b5b7012-78b1-4693-8666-fda2f0ccc7dc" name="tencent" url="http://119.29.169.156">
+        <fileTransfer host="119.29.169.156" port="21" rootFolder="/home/ubuntu/lu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
