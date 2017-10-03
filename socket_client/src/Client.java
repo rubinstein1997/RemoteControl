@@ -6,8 +6,8 @@ import java.io.InputStreamReader;
 import java.net.Socket;
 
 public class Client {
-    public static final String IP_ADDR = "119.29.169.156";//服务器地址
-    public static final int PORT = 12345;//服务器端口号    
+    public static final String IP_ADDR = "******";//服务器地址
+    public static final int PORT = ****;//服务器端口号    
 
     public static void main(String[] args) {
         System.out.println("客户端启动...");
